@@ -360,10 +360,11 @@ Result:
   ],
 }
 ```
+
+> _See this in action in this [JSBin](https://jsbin.com/yovodag/edit?js,console)._
+
 ## Another exemple
 
 https://dev.to/umerjaved178/polyfills-for-foreach-map-filter-reduce-in-javascript-1h13
-> _See this in action in this [JSBin](https://jsbin.com/yovodag/edit?js,console)._
-
 
 
