@@ -369,4 +369,6 @@ https://dev.to/umerjaved178/polyfills-for-foreach-map-filter-reduce-in-javascrip
 
 https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
 
+https://leanylabs.com/blog/js-forEach-map-reduce-vs-for-for_of/
+
 
