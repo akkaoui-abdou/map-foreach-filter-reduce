@@ -367,4 +367,6 @@ Result:
 
 https://dev.to/umerjaved178/polyfills-for-foreach-map-filter-reduce-in-javascript-1h13
 
+https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
+
 
