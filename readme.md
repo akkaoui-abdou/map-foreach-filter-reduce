@@ -363,8 +363,5 @@ Result:
 
 > _See this in action in this [JSBin](https://jsbin.com/yovodag/edit?js,console)._
 
-## In summary
 
-![image](assets/map-filter-reduce-emoji.png)
 
-Credit: http://www.globalnerdy.com/2016/06/23/map-filter-and-reduce-explained-using-emoji/
